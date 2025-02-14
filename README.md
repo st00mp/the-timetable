@@ -1,4 +1,4 @@
-# Mon projet PHP sans framework
+# The Timetable -- Projet PHP sans framework
 
 Ce projet vise à :
 
